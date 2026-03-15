@@ -66,7 +66,7 @@ From `Model_Performance_Summary.csv`:
 - ![Placement Training vs Placement Status](Student_Career_Path_%26_Placement_Analytics/Screenshots%20of%20Dataset%20and%20Graphs/Placement_Training%20vs%20Placement_Status.png)
 
 ### Video Explanation
-- Add your video link here: `PASTE_PLACEMENT_PROJECT_VIDEO_LINK`
+- [Student Career Path and Placement Analysis Video](Student%20Carrer%20Path%20and%20Placement%20Analysis.mp4)
 
 ---
 
@@ -111,7 +111,7 @@ Perform end-to-end analysis of student performance data and build models for bot
   - MSE: **90.8419**
 
 ### Video Explanation
-- Add your video link here: `PASTE_STUDENT_PERFORMANCE_VIDEO_LINK`
+- [Student Performance Analytics Video](Student%20Performance%20Analytics.mp4)
 
 ---
 
